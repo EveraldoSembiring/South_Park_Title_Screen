@@ -43,11 +43,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _GlassMask:
-        m_Texture: {fileID: 2800000, guid: 6988aa06f6d809f4cad72d91adb4039e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 077d23852344ad24cb1555fe28498e14, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _GlassTex:
-        m_Texture: {fileID: 2800000, guid: 965ca2eb279d8dc43b19ec52a87ae732, type: 3}
+        m_Texture: {fileID: 2800000, guid: f022acd2ac038bd4b9786b98a76c5fa7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
